@@ -294,7 +294,7 @@
 					error:function(resp){eval('var resp = '+resp); callback.call(inst, resp);},
 					crossDomain:true,
 					xhrFields: {
-						withCredentials: true
+						//withCredentials: true
 					}
 				});
 			},
