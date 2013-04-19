@@ -20,5 +20,3 @@ IonDrone is a simple web based code editor for GitHub. It uses the CORS GitHub A
 - add files to repos
 - edit files in CodeMirror web based editor
 - save files (commit and push) back to GitHub repos
-
-
